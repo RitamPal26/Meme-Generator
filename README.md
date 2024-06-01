@@ -1,3 +1,15 @@
+# Meme Generator App
+
+## Overview
+The Meme Generator App allows users to create and share their own memes with ease. With a simple and intuitive interface, users can select from a variety of meme templates, add custom text, and download or share their creations.
+
+## Features
+1. Meme Templates: Choose from a wide selection of popular meme templates.
+2. Custom Text: Add your own text to the top and bottom of the meme.
+3. Font Options: Customize the font style, size, and color.
+4. Download Memes: Save your memes to your device.
+5. Share Memes: Share your memes directly to social media platforms.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
